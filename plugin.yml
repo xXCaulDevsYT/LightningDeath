@@ -1,0 +1,6 @@
+name: Lightningdeath
+version: 1.0
+api: 3.0.0
+description: Struck By Lightning On Death
+author: EmeraldMC
+main: EmeraldMC\LightningDeath\Main
